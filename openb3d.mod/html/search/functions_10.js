@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['quat',['Quat',['../struct_quat.html#afe432f2aac598c876a51b16dce29aa13',1,'Quat::Quat()'],['../struct_quat.html#aa0219ea70f09313f66f50c831f8d5471',1,'Quat::Quat(float w, const Vector &amp;v)']]],
+  ['quaternion_5ffromangleaxis',['Quaternion_FromAngleAxis',['../matrix_8cpp.html#ae46a7a58a60d61d6c8718ba4e18f995e',1,'Quaternion_FromAngleAxis(float angle, float ax, float ay, float az, float &amp;rx, float &amp;ry, float &amp;rz, float &amp;rw):&#160;matrix.cpp'],['../matrix_8h.html#ae46a7a58a60d61d6c8718ba4e18f995e',1,'Quaternion_FromAngleAxis(float angle, float ax, float ay, float az, float &amp;rx, float &amp;ry, float &amp;rz, float &amp;rw):&#160;matrix.cpp']]],
+  ['quaternion_5fmultiplyquat',['Quaternion_MultiplyQuat',['../matrix_8cpp.html#af3f4ceab8644dfa5f3d00a5b39db52a7',1,'Quaternion_MultiplyQuat(float x1, float y1, float z1, float w1, float x2, float y2, float z2, float w2, float &amp;rx, float &amp;ry, float &amp;rz, float &amp;rw):&#160;matrix.cpp'],['../matrix_8h.html#af3f4ceab8644dfa5f3d00a5b39db52a7',1,'Quaternion_MultiplyQuat(float x1, float y1, float z1, float w1, float x2, float y2, float z2, float w2, float &amp;rx, float &amp;ry, float &amp;rz, float &amp;rw):&#160;matrix.cpp']]],
+  ['quatpitch',['quatPitch',['../geom_8h.html#a8f8e8b584ef1f5a5c5a50abdafad6e55',1,'geom.h']]],
+  ['quatroll',['quatRoll',['../geom_8h.html#a7a04f77fb7a95507c4872133d691a4e1',1,'geom.h']]],
+  ['quattoeuler',['QuatToEuler',['../quaternion_8cpp.html#af485b8de72603a05a5e313c06ed6b446',1,'QuatToEuler(float w, float x, float y, float z, float &amp;pitch, float &amp;yaw, float &amp;roll):&#160;quaternion.cpp'],['../quaternion_8h.html#af485b8de72603a05a5e313c06ed6b446',1,'QuatToEuler(float w, float x, float y, float z, float &amp;pitch, float &amp;yaw, float &amp;roll):&#160;quaternion.cpp']]],
+  ['quattomat',['QuatToMat',['../quaternion_8cpp.html#afa4b00fc5a7ef6b4f93c19d6b0b87d82',1,'QuatToMat(float w, float x, float y, float z, Matrix &amp;mat):&#160;quaternion.cpp'],['../quaternion_8h.html#afa4b00fc5a7ef6b4f93c19d6b0b87d82',1,'QuatToMat(float w, float x, float y, float z, Matrix &amp;mat):&#160;quaternion.cpp']]],
+  ['quatyaw',['quatYaw',['../geom_8h.html#ac5b370a24d0512181d88cb0e91a924f6',1,'geom.h']]],
+  ['quickcheck',['QuickCheck',['../collision2_8cpp.html#af0639f5799c67e621c1e5806c95e4f35',1,'QuickCheck(Entity &amp;ent, Entity &amp;ent2):&#160;collision2.cpp'],['../collision2_8h.html#af0639f5799c67e621c1e5806c95e4f35',1,'QuickCheck(Entity &amp;ent, Entity &amp;ent2):&#160;collision2.cpp']]]
+];

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['o',['o',['../class_line.html#a16feda3ad4336031075465ea05553232',1,'Line']]],
+  ['obscurer',['obscurer',['../class_entity.html#ade3b3fa7390eba29130cf974dff703e4',1,'Entity']]],
+  ['octree_5fclass',['OCTREE_class',['../data_8cpp.html#aff0282c0a3c012920d058291eeb43fb1',1,'data.cpp']]],
+  ['octreechild_5fclass',['OCTREECHILD_class',['../data_8cpp.html#ae1e8ad98b82833eef9c69bb4af850819',1,'data.cpp']]],
+  ['old_5fmat',['old_mat',['../class_entity.html#ad43195d401cd3eaf0b5fb701291d3e6c',1,'Entity']]],
+  ['old_5fpitch',['old_pitch',['../class_entity.html#a5d88faba3c231ae55562f3c5e8fb0205',1,'Entity']]],
+  ['old_5froll',['old_roll',['../class_entity.html#a7c0bec489ca5124d95fa114f048f5814',1,'Entity']]],
+  ['old_5fx',['old_x',['../class_entity.html#a40b3ea3654a7642ba75b9572ab3de760',1,'Entity::old_x()'],['../class_touch.html#a79c0aa1e4420e9baefdada765d3d0549',1,'Touch::old_x()']]],
+  ['old_5fy',['old_y',['../class_entity.html#a38bc23706e15056a8bd1584cbf8a5cf2',1,'Entity::old_y()'],['../class_touch.html#ab7d9f0148e66c31f80b7745c456abe6e',1,'Touch::old_y()']]],
+  ['old_5fyaw',['old_yaw',['../class_entity.html#a1ddc745b5362ea64415567306455e38b',1,'Entity']]],
+  ['old_5fz',['old_z',['../class_entity.html#ab404be8916b9a4ad7424ced9cf5d06c9',1,'Entity']]],
+  ['onx',['onx',['../class_c_s_g_triangle.html#a6a761ab91d8de320e93635c3b88c1cdb',1,'CSGTriangle']]],
+  ['ony',['ony',['../class_c_s_g_triangle.html#a7b0a400b5cdb68bbe6ab50883eb24874',1,'CSGTriangle']]],
+  ['onz',['onz',['../class_c_s_g_triangle.html#a2fe3f667ab94716e2d6bc358adb10ebf',1,'CSGTriangle']]],
+  ['order',['order',['../class_entity.html#a0ec76d3f3f4679bd42ecacd38d6d54e5',1,'Entity::order()'],['../class_sprite_batch.html#ae261076fc896eec54c7391bcc34850f0',1,'SpriteBatch::order()'],['../structjpeg.html#ac0f5240fc472e75239328f51a50f45b6',1,'jpeg::order()']]],
+  ['out',['out',['../structpng.html#ab1704aed96eb81ab794e0690778d3f54',1,'png::out()'],['../structstbi__gif__struct.html#a1c2d18ea92a86a416e7458cdaa9f4cc3',1,'stbi_gif_struct::out()']]],
+  ['outer_5fang',['outer_ang',['../class_light.html#a6bc707d69efe08792186632307666fb4',1,'Light']]]
+];
