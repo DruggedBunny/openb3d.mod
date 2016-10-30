@@ -28,4 +28,6 @@ Changes so far:
 License
 =======
 
-OpenB3D is licensed under the *GNU LGPLv2 or later*, _with an exception to allow static linking_.
+OpenB3D is licensed under the *GNU LGPLv2 or later*, <u>with an exception to allow static linking</u>.
+
+(*Static linking* refers to the library being built into your executable, which is what this wrapper does by default. This means you can use it without having to release your program's source code. Only changes you might make to the library itself would require you to provide the updated library's source code.)
