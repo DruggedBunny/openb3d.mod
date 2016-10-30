@@ -23,6 +23,7 @@ Changes so far:
 * Fixed EntityName/EntityClass, which in turn fix GetChild/FindChild;
 * Added `Entity::MQ_ApplyNewtonTransform()` for updating mesh matrices using Newton Dynamics body matrices;
 * Added experimental bmx-ng-specific operator overloading for adding/subtracting meshes using CSG features, via mesh3 = mesh1 + mesh2;
+* Added Doxygen-generated class documentation (in html folder -- click \_Start shortcut or index.html if that doesn't work!)
 
 License
 =======
