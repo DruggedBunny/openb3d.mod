@@ -19,10 +19,10 @@ The main reason for uploading this repository is to store a working copy of mark
 
 Changes so far:
 
-Fixed HearingPoint = New HearingPoint in openb3d.mod\b3dsound.mod\b3dsound.bmx; should have been HearingPoint = New ListeningPoint;
-Fixed EntityName/EntityClass, which in turn fix GetChild/FindChild;
-Added Entity::MQ_ApplyNewtonTransform() for updating mesh matrices using Newton Dynamics body matrices;
-Added experimental bmx-ng-specific operator overloading for adding/subtracting meshes using CSG features, via mesh3 = mesh1 + mesh2;
+* Fixed HearingPoint = New HearingPoint in openb3d.mod\b3dsound.mod\b3dsound.bmx; should have been HearingPoint = New ListeningPoint;
+* Fixed EntityName/EntityClass, which in turn fix GetChild/FindChild;
+* Added Entity::MQ_ApplyNewtonTransform() for updating mesh matrices using Newton Dynamics body matrices;
+* Added experimental bmx-ng-specific operator overloading for adding/subtracting meshes using CSG features, via mesh3 = mesh1 + mesh2;
 
 License
 =======
