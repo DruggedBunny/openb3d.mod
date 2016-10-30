@@ -15,7 +15,7 @@ Status
 
 Possibly occasionally updated, on rare occasions.
 
-The main reason for uploading this repository is to store a working copy of markcwm's OpenB3D wrapper for BlitzMax at https://github.com/markcwm/openb3d.mod. The project was discontinued with a non-working version left behind, so this fork was taken from https://github.com/markcwm/openb3d.mod/commit/f152c0280812508814e7bf81f336eacf7d9b65cd and a few fixes/tweaks applied.
+The main reason for uploading this repository is to store a working copy of [markcwm's OpenB3D wrapper for BlitzMax](https://github.com/markcwm/openb3d.mod/ "OpenB3D Wrapper"). The project was discontinued with a non-working version left behind, so this fork was taken from [mostly-working branch f152c0280812508814e7bf81f336eacf7d9b65cd](https://github.com/markcwm/openb3d.mod/commit/f152c0280812508814e7bf81f336eacf7d9b65cd/ "Mostly-working branch") and a few fixes/tweaks applied.
 
 Changes so far:
 
