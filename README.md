@@ -28,4 +28,4 @@ Changes so far:
 License
 =======
 
-OpenB3D is licensed under the *GNU LGPLv2 or later*, *with an exception to allow static linking*.
+OpenB3D is licensed under the *GNU LGPLv2 or later*, _with an exception to allow static linking_.
