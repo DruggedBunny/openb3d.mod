@@ -1,6 +1,10 @@
 # openb3d.mod
 Working branch of markcw's BlitzMax wrapper for Openb3d library
 
+*Note that I've never been able to build applications that use the library with 'vanilla' BlitzMax -- the library builds, but applications give a load of "undefined reference" errors, so I use Brucey's [bmx-ng](https://github.com/bmx-ng "bmx-ng") instead. It's awesome as it can build 64-bit executables, runs on Raspberry Pi and adds all sorts of useful features*
+
+The easiest way to install bmx-ng is to download the pre-built versions from [bmx-ng.com](http://www.bmx-ng.com/main/downloads/ "bmx-ng"). For the most up-to-date version, instead download 'Frisky' from that page and let it build you a brand-new BlitzMax distribution! Then add this mod.
+
 Openb3d.mod
 ===========
 
